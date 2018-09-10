@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Splash.unity
+    guid: 087e0c61dfe72450cb31c3278d6c65ee
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Why 1.unity
+    guid: 0213f888ceac748df8e7b38db3793b3a
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Topics Covered.unity
+    guid: 7602e6cbdbeaa4cd89e7fca1a120a536
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Topics Not Covered.unity
+    guid: 0b2334c2dd51d4df98acd2181f9d8108
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Anatomy of an Asset.unity
+    guid: 1569be68331134ae6b8d6a42995bf694
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Asset Types.unity
+    guid: 252b3c7cd34aa4089822a782d9bdacca
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Importing Process 1.unity
+    guid: 9ec6d22295fdc4796aa7008010a11525
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Importing Process 2.unity
+    guid: 51e2f86baa301425cbfab14c06bf2514
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Importing Process 3.unity
+    guid: 1e783b51b53c74e798a25b74910ad9a4
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Import results.unity
+    guid: 03b9bc5952aa94c0aa1e45d2d8b405f2
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Asset GUIDs.unity
+    guid: e365d9b60f9794bf3bf0e3fdf67ea914
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Object LocalIDs.unity
+    guid: 980368dfd7785423eb548a5046d6575f
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Example - Material References.unity
+    guid: b7c1cd1c95f3147718a69762764bda20
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/InstanceID.unity
+    guid: d85dc3e05d5ae4bd2a47b9c41e14311b
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Meta files.unity
+    guid: bf5d5d94218334857a36f9f09e2d8cd8
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/LibraryMetaData.unity
+    guid: d8387043ef91545e3b7483238150430e
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Cache Server.unity
+    guid: f07a34bd8dc8747d5ae033336e469c7b
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Scenes.unity
+    guid: 6fcbed0dfda5e47148d6c8e5bd1fd3d8
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Dependencies.unity
+    guid: 8c2209f8aba804ea8b56917a7968ac93
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Futher Reading.unity
+    guid: 57ce69ad12a944401911a65f660c9e80
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Conclusion.unity
+    guid: 89bf7527c8b0f4b28968e7f7753412c7
+  - enabled: 1
+    path: Assets/AssetDatabaseTalk/Slides/Thank you.unity
+    guid: bac0d28ad212945d4b61935df2357f4e
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/LogoCentral/Slide-LogoCentral.unity
+    guid: 19257c4d45b394bc0b076ab495cd8257
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/BlackBG(Blank)/Slide-BlackBG.unity
+    guid: bc9f66b7a3f564f0ea8d0719ba359b4c
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/HeaderCentral/Slide-HeaderCentral.unity
+    guid: 9211f6193b28e46efbdb101263915b26
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/DataNumberCentral/Slide-DataNumberCentral.unity
+    guid: 556090e746aa84b43a70c21cef0765be
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/DataNumbersSideBySide/Slide-DataNumbersSideBySide.unity
+    guid: b5d64a5b6cdbc4d4e8f65f9614f26bb4
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/BulletPointTextLeftAlignment/Slide-BulletPointTextLeftAlignment.unity
+    guid: 26f45122a5d044eb790f20712d10e7af
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/MeshObjectInFrontOfSlide/Slide-MeshObjectInFrontOfSlide.unity
+    guid: a411f5f13be3a4cf3bfa051e5cf82022
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/HeaderCentralWithParagraph/Slide-HeaderCentralWithParagraph.unity
+    guid: 044793db27449469d8786db0e0406128
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/ParagraphsSideBySide/Slide-ParagraphsSideBySide.unity
+    guid: fb8e5e762a3024fb7abc99d1a6062970
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/PartnerSlide/Slide-PartnerSlide.unity
+    guid: f96d2ad34d0594ba29686622a8e789b2
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/RenderTextureInSlide/Slide-RenderTextureInSlide.unity
+    guid: 4350ff9038d5649a6b970ecb6a528ddd
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/ServicesIn3Column/Slide-ServicesIn3Columns.unity
+    guid: b54e1dadfcedf4e48af2de6b86ea5c89
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/VerticalAboveServicesAnd3Rows/Slide-ServicesSlide.unity
+    guid: fd450e0b0c7b04bbe8a0f8c2076b0fe8
+  - enabled: 1
+    path: Assets/Presentation/Unity/Template Slides/Dark Theme/HalfContentLeft/Slide-HalfContentLeft.unity
+    guid: 772c063127809477a8ffc21736aa0310
+  m_configObjects: {}
