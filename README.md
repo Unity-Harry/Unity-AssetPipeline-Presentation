@@ -14,6 +14,10 @@ This repo contains the Unity project presented at Develop Conference: 2018.
 2. In the presentation window press the "> B" button to start the presentation from the beginning
 3. Anytime you see a slide that mentions an api try clicking on Assets within the project for an interactive look at the api results 
 
+<p align="center">
+<img src="Images/Interactive.gif" width="650" height="362" />
+</p>
+
 ## What's this presentation made with?
 This presentation is made with the [Unity Presentation project](https://github.com/UnityTechnologies/Presentation)
 
