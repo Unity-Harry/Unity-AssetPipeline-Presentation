@@ -19,8 +19,11 @@ public class LibraryMetadataColoriser : MonoBehaviour
 			Object currentObject = Selection.activeObject;
 			
 			string guid;
+#if UNITY_2018_2
+			long localID;
+#else
 			int localID;
-
+#endif
 			if (AssetDatabase.TryGetGUIDAndLocalFileIdentifier(currentObject, out guid, out localID))
 			{
 				string metaStart = guid.Substring(0, 2);

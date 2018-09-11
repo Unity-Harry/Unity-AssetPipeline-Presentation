@@ -94,7 +94,11 @@ public class TextToCurrentAssetInfo : MonoBehaviour
 		string result = template;
 
 		string guid;
+#if UNITY_2018_2
+		long localID;
+#else
 		int localID;
+#endif
 		if (AssetDatabase.TryGetGUIDAndLocalFileIdentifier(currentObject, out guid, out localID))
 		{
 			result = result.Replace(kName, currentObject.name);
