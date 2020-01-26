@@ -1,4 +1,4 @@
-﻿using System.IO;
+using System.IO;
 using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
@@ -94,7 +94,7 @@ public class TextToCurrentAssetInfo : MonoBehaviour
 		string result = template;
 
 		string guid;
-#if UNITY_2018_2
+#if UNITY_2018_2_OR_NEWER
 		long localID;
 #else
 		int localID;
