@@ -26,4 +26,4 @@ This presentation is made with the [Unity Presentation project](https://github.c
 This project has been tested against Unity 2018.1.4f1 and 2018.2.0f2
 
 ## Questions?
-Please feel free to ask [me on twitter](https://twitter.com/harryr0se)
+Please feel free to ask [me on twitter](https://twitter.com/PeanutBuffer)
