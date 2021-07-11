@@ -1,4 +1,4 @@
-﻿using UnityEditor;
+using UnityEditor;
 using UnityEngine;
 
 public class OpenCurrentMetatDataFile : MonoBehaviour 
@@ -8,8 +8,8 @@ public class OpenCurrentMetatDataFile : MonoBehaviour
 		Object currentObject = Selection.activeObject;
 		string currentObjectPath = AssetDatabase.GetAssetPath(currentObject);
 		string guid;
-		
-#if UNITY_2018_2
+
+#if UNITY_2018_2_OR_NEWER
 		long localID;
 #else
 		int localID;

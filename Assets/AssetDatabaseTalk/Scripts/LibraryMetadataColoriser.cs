@@ -1,4 +1,4 @@
-﻿using UnityEditor;
+using UnityEditor;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -19,7 +19,7 @@ public class LibraryMetadataColoriser : MonoBehaviour
 			Object currentObject = Selection.activeObject;
 			
 			string guid;
-#if UNITY_2018_2
+#if UNITY_2018_2_OR_NEWER
 			long localID;
 #else
 			int localID;
